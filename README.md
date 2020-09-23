@@ -37,6 +37,7 @@
 * Longchamp Palace
 * La Caravelle 
 * Le café de l'abbaye 
+* Brasserie Zoumaï
 * Coogee
 
 ### Alterntaive places
